@@ -1,0 +1,13 @@
+First grab all the colors from the figma design and add them to tailwind.config.js extend colors
+them:{
+    extend:{
+        colors:{
+            brand(name of my choice):{
+                default:"colorcode"
+            }
+        }
+    }
+}
+2nd: use mx-auto for alligning something in the center of the container horizantly
+3rd ke menu ke liye nav banaya uske under ik or div or isko flex or flex row de dia or phir jo pic chahiye thi uspe right click
+krke uska svg utha lia
